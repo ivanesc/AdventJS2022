@@ -13,7 +13,7 @@ Plataforma de retos construida por [@midudev](https://twitter.com/midudev)
 git clone https://github.com/ivanesc/AdventJS2022
 
 # Ir al directorio principal asociado al proyecto
-cd adventjs
+cd AdventJS2022
 
 # Instalar dependencias
 npm install
