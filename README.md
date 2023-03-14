@@ -38,4 +38,4 @@ Leyenda para niveles de dificultad:
 | 03  | [¿Cuántas cajas de regalos puede llevar Papá Noel?](https://adventjs.dev/challenges/2022/3) |     🟢     |     [aqui](https://github.com/ivanesc/AdventJS2022/src/03-cajas-de-regalo)      |
 | 04  | [Una caja dentro de otra caja y otra...](https://adventjs.dev/challenges/2022/4)            |     🟡     | [aqui](https://github.com/ivanesc/AdventJS2022/src/04-caja-dentro-de-otra-caja) |
 | 05  | [Optimizando viajes de Santa](https://adventjs.dev/challenges/2022/5)                       |     🔴     |    [aqui](https://github.com/ivanesc/AdventJS2022/src/05-optimizando-viajes)    |
-| 06  | [Creando adornos navideños](https://adventjs.dev/challenges/2022/6)                         |     🟡     |    [here](https://github.com/ivanesc/AdventJS2022/src/06-adornos-navideños)     |
+| 06  | [Creando adornos navideños](https://adventjs.dev/challenges/2022/6)                         |     🟡     |    [aqui](https://github.com/ivanesc/AdventJS2022/src/06-adornos-navideños)     |
